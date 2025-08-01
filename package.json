@@ -1,0 +1,16 @@
+{
+  "name": "discord-qeydiyyat-botu",
+  "version": "1.0.0",
+  "description": "Discord qeydiyyat",
+  "main": "senotron.js",
+  "scripts": {
+    "start": "node senotron.js"
+  },
+  "author": "senotron",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "latest",
+    "mongoose": "latest",
+    "dotenv": "latest"
+  }
+}
